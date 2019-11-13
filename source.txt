@@ -5,3 +5,4 @@ test3
 This is merge conflict master.
 
 well
+well well well
