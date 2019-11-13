@@ -1,7 +1,5 @@
-test1 d
+test1
 test2
-
 test3
-merge test
 
 This is merge conflict master.
