@@ -6,4 +6,5 @@ This is merge conflict master.
 
 well
 well well well
-test test
+test test test
+test2 test2 test2
