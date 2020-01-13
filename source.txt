@@ -6,3 +6,4 @@ This is merge conflict master.
 
 well
 well well well
+test test
